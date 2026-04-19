@@ -26,7 +26,7 @@ The skill enforces a structured process:
 ## Install
 
 ```bash
-npx skills add prdai/design-skill
+npx skills add prdai/design-agent-skills
 ```
 
 ## Usage
