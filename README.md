@@ -51,3 +51,7 @@ Once installed, the skill activates when you ask your agent to:
 ## License
 
 [Apache 2.0](LICENSE)
+
+## Contact
+
+[go2ranuga@gmail.com](mailto:go2ranuga@gmail.com)
